@@ -8,9 +8,3 @@ console.log("Name: " + myString);
 console.log("Lucky Number: " + myNumber);
 console.log("Good joke? " + myBoolean);
 
-------------------------------------------------------------------
-
-
-Exercise 2
-
-console.log('chicken','mushroom')
